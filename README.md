@@ -1,0 +1,2 @@
+# android_TrainingVolumeCalculator
+トレーニングボリュームを試算するための計算機アプリ
