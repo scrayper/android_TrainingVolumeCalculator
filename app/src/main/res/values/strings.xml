@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TrainingVolumeCalculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="target_volume">目標ボリューム：</string>
+    <string name="tag">タグ：</string>
+    <string name="title_set1">1セット目</string>
+    <string name="kai">回</string>
+    <string name="multiply">×</string>
+    <string name="title_set2">2セット目</string>
+    <string name="title_set3">3セット目</string>
+    <string name="title_set4">4セット目</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="title_total_volume">総ボリューム：</string>
+    <string name="save">保存する</string>
+    <string-array name="tag_list">
+        <item>胸</item>
+        <item>背中</item>
+        <item>脚</item>
+        <item>肩</item>
+        <item>腹筋</item>
+    </string-array>
+</resources>
